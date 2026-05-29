@@ -1,0 +1,6 @@
+{
+  "name": "Sensor Mekatronika",
+  "description": "Aplikasi pembelajaran vokasional interaktif tentang macam-macam sensor mekatronika lengkap dengan simulasi pin/wiring, eksperimen interaktif, kuis, dan statistik belajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
